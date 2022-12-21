@@ -1,0 +1,110 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: #FFF9F9;
+}
+
+p {
+    font-family: 'Gelasio', serif;
+    font-size: 1.5rem;
+    color: #4B4F51;
+}
+
+.nav-a {
+    font-family: 'Gelasio', serif;
+    font-size: 1.125rem;
+}
+
+.logo {
+    font-size: 1.1875rem;
+}
+
+.menu-text-color {
+    color: #035755 !important;
+}
+
+.small-text {
+    color: #FA5652;
+    font-size: 32px;
+}
+
+.offcanvus-bg {
+    background-color: #FB4C47;
+}
+
+.big-text {
+    color: #035755;
+    font-size: 52px;
+}
+
+.big-text-2 {
+    color: #0C6C44;
+}
+
+.btn-color {
+    background: #FB4C47;
+    color: #ffffff;
+}
+
+.btn-color-2 {
+    background-color: rgba(250, 86, 82, 0.15);
+    color: #FB4C47;
+    font-size: 14px;
+}
+
+.count-color {
+    background-color: rgba(250, 86, 82, 0.15);
+    color: #FB4C47;
+}
+
+.bg-img-1 {
+    background-image: url(images/path1470.png), url(images/path1471.png);
+    background-repeat: no-repeat;
+    background-position: right bottom, center top;
+}
+
+.bg-img-2 {
+    background-image: url(images/path1472.png);
+    background-repeat: no-repeat;
+    background-position: -100px;
+}
+
+.bg-img-3 {
+    background-image: url(images/path1470.png), url(images/path1471.png), url(images/path1472.png), url(images/path1471.png), url(images/path1470.png), url(images/path1470.png);
+    background-repeat: no-repeat;
+    background-position: right top, center top, -100px, center center, right center, right bottom;
+}
+
+
+.card-border-design {
+    border: none;
+    border-bottom: 4px solid #FB4C47;
+
+}
+
+.card-border-design-hover {
+    border: none;
+    border-bottom: 4px solid transparent;
+}
+
+.card-border-design-hover:hover {
+    border-bottom: 4px solid #FB4C47;
+
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+
+.position {
+    top: 10px;
+    right: 10px;
+}
+
+.form-c {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
